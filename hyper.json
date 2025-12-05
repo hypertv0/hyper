@@ -1208,5 +1208,16 @@
     "name": "Dünya Kanalları",
     "logo": "",
     "playlist_url": "https://iptv-org.github.io/iptv/index.country.m3u"
+  },
+  {
+    "category": "Seç-İzle",
+    "items": [
+      {
+        "type": "playlist",
+        "name": "Film İzle 1",
+        "logo": "",
+        "playlist_url": "https://raw.githubusercontent.com/ahmet21ahmet/Bo-/main/movies.m3u"
+      }
+    ]
   }
 ]
