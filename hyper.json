@@ -180,9 +180,9 @@
       },
       {
         "type": "stream",
-        "name": "",
+        "name": "beIN Sports 2 A",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png",
-        "stream_url": "",
+        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_2_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
