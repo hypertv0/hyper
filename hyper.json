@@ -1225,5 +1225,19 @@
         "playlist_url": "https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/dizi_son_bolumler?t=1764971154499"
       }
     ]
+  },
+  {
+    "category": "Test",
+    "items": [
+      {
+        "type": "stream",
+        "name": "Test",
+        "logo": "",
+        "stream_url": "https://raw.githubusercontent.com/hypertv0/hypert/refs/heads/main/kanallar/Bein_Sports_1_HD_(VIP).m3u8",
+        "headers": {
+          "Referer": "https://trgoals1275.xyz/"
+        }
+      }
+    ]
   }
 ]
