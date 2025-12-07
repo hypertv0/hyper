@@ -164,6 +164,12 @@
         "playlist_url": "https://raw.githubusercontent.com/hypertv0/hypert/refs/heads/main/playlist.m3u"
       },
       {
+        "type": "playlist",
+        "name": "",
+        "logo": "https://i.hizliresim.com/70vy3pq.png",
+        "playlist_url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar2.m3u8"
+      },
+      {
         "type": "stream",
         "name": "beIN Sports 1 | A",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
@@ -478,8 +484,8 @@
       {
         "type": "stream",
         "name": "FB TV",
-        "logo": "https://gbzeottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250528/26/1110480969645eb88428_op_0_XL.webp",
-        "stream_url": "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8"
+        "logo": "https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png",
+        "stream_url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
       },
       {
         "type": "stream",
