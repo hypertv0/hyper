@@ -146,12 +146,6 @@
         "playlist_url": "https://raw.githubusercontent.com/hypertv0/hypert/refs/heads/main/playlist.m3u"
       },
       {
-        "type": "playlist",
-        "name": "Spor Panel 3",
-        "logo": "",
-        "playlist_url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar2.m3u8"
-      },
-      {
         "type": "stream",
         "name": "beIN Sports 1 | A",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
@@ -836,19 +830,19 @@
         "type": "stream",
         "name": "Sinema TV",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/0/0959572110155eb8f42a_op_0_XL.webp",
-        "stream_url": "http://65.108.239.207/sinema/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
         "name": "Sinema TV 2",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/9/0953500773955eb9542c_op_0_XL.webp",
-        "stream_url": "http://65.108.239.207/sinema2/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
         "name": "Sinema TV Komedi",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/2/0957104452425eb7f426_op_0_XL.webp",
-        "stream_url": "http://65.108.239.207/sinemakomedi/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
@@ -860,7 +854,7 @@
         "type": "stream",
         "name": "Sinema TV Yerli",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/24/0958196154045eb9b42e_op_0_XL.webp",
-        "stream_url": "http://65.108.239.207/sinemayerli/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
@@ -884,7 +878,7 @@
         "type": "stream",
         "name": "Sinema TV Aksiyon",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/15/0955472569555eb88428_op_0_XL.webp",
-        "stream_url": "http://65.108.239.207/sinemaaksiyon2/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
@@ -896,7 +890,7 @@
         "type": "stream",
         "name": "Sinema TV 1001",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/8/0952164683935eb9542c_op_0_XL.webp",
-        "stream_url": "http://65.108.239.207/sinema1001/tracks-v1a1/mono.ts.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
@@ -920,25 +914,25 @@
         "type": "stream",
         "name": "beIN Box Office 1",
         "logo": "https://www.digiturkburada.com.tr/kanal3/bein-box-office-1-hd.png?rkt=DfS6Tgv6Hjr93k3",
-        "stream_url": "http://65.108.239.207/box1/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
         "name": "beIN Box Office 2",
         "logo": "https://www.digiturkburada.com.tr/kanal3/bein-box-office-1-hd.png?rkt=DfS6Tgv6Hjr93k3",
-        "stream_url": "http://65.108.239.207/box2/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
         "name": "beIN Box Office 3",
         "logo": "https://www.digiturkburada.com.tr/kanal3/bein-box-office-1-hd.png?rkt=DfS6Tgv6Hjr93k3",
-        "stream_url": "http://65.108.239.207/box3/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
         "name": "beIN Movies Premiere 1",
         "logo": "https://www.digiturkburada.com.tr/kanal3/bein-movies-premiere-hd.png?rkt=DfS6Tgv6Hjr93k3",
-        "stream_url": "http://65.108.239.207/bspremier1/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
@@ -962,7 +956,7 @@
         "type": "stream",
         "name": "beIN Movies Türk",
         "logo": "https://www.digiturkburada.com.tr/kanal3/bein-movies-turk-hd-1.png?rkt=DfS6Tgv6Hjr93k3",
-        "stream_url": "http://65.108.239.207/bsturk/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
@@ -973,14 +967,14 @@
       {
         "type": "stream",
         "name": "beIN Movies Family",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsm7ErcNkI7LafTfmcHzyCXtPYtjbBoqlOOBTGkURMw&s=10",
-        "stream_url": "http://65.108.239.207/bsfamily/index.m3u8"
+        "logo": "",
+        "stream_url": ""
       },
       {
         "type": "stream",
         "name": "Movie Smart Türk",
         "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/MOVIESMART%20TURK.png",
-        "stream_url": "http://65.108.239.207/mvturk/index.m3u8"
+        "stream_url": ""
       },
       {
         "type": "stream",
@@ -1222,12 +1216,6 @@
         "type": "playlist",
         "name": "Film İzle 1",
         "logo": "",
-        "playlist_url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u"
-      },
-      {
-        "type": "playlist",
-        "name": "Film İzle 2",
-        "logo": "",
         "playlist_url": "https://raw.githubusercontent.com/ahmet21ahmet/Bo-/main/movies.m3u"
       },
       {
@@ -1238,16 +1226,21 @@
       },
       {
         "type": "playlist",
-        "name": "Dizi İzle",
-        "logo": "",
-        "playlist_url": "https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Diziler.m3u"
-      },
-      {
-        "type": "playlist",
         "name": "Belgesel İzle",
         "logo": "",
         "playlist_url": "https://raw.githubusercontent.com/hypertv0/hyperb/refs/heads/main/playlist.m3u"
       }
     ]
+  },
+  {
+    "type": "stream",
+    "name": "",
+    "logo": "",
+    "stream_url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01",
+    "headers": {
+      "User-Agent": "speedrestapi",
+      "Referer": "https://speedrestapi.com/"
+    },
+    "url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01"
   }
 ]
