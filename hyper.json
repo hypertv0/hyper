@@ -109,6 +109,24 @@
         "name": "TV4",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/37/2118109050615eb9542c_op_0_XL.webp",
         "stream_url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+      },
+      {
+        "type": "stream",
+        "name": "GZT TV",
+        "logo": "https://gbzeottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/80/0934306822275eb7f426_op_0_XL.webp",
+        "stream_url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8"
+      },
+      {
+        "type": "stream",
+        "name": "TYT Türk",
+        "logo": "https://gbzeottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/1/1029375722595eb8f42a_op_0_XL.webp",
+        "stream_url": "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8"
+      },
+      {
+        "type": "stream",
+        "name": "Bi Kanal",
+        "logo": "https://gbzeottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/logo/202508/20250820/62/1032225959145eb78424_op_0_XL.png",
+        "stream_url": "https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8"
       }
     ]
   },
@@ -695,6 +713,12 @@
         "name": "Lider Haber",
         "logo": "http://assets.tvcdn.net/0e7781ec-13ea-4dc4-963c-fa1925b5d965.png",
         "stream_url": "https://streams.uzunmuhalefet.com/stream/5b8db41e-b662-4652-bd8a-fc198ceb33f4.m3u8"
+      },
+      {
+        "type": "stream",
+        "name": "A Para",
+        "logo": "https://gbzeottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/87/0912202162025eb7f426_op_0_XL.webp",
+        "stream_url": "https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8"
       }
     ]
   },
