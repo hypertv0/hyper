@@ -182,13 +182,13 @@
         "type": "stream",
         "name": "beIN Sports 1 | B",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "http://proxylendim101010.mywire.org/proxy.php?url=https://df16ea90s1u1080.0227f5e80acfd3ae.live/live/selcukbeinsports1/playlist.m3u8"
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs1.m3u8"
       },
       {
         "type": "stream",
         "name": "beIN Sports 1 | C",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/megasmartgence90/ANDROID-IPTV/refs/heads/main/channels/beIN_Sport_1_HD.m3u8"
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebiraz1.m3u8"
       },
       {
         "type": "stream",
@@ -206,7 +206,7 @@
         "type": "stream",
         "name": "beIN Sports 2 | A",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png",
-        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_2_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs2.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -224,7 +224,7 @@
         "type": "stream",
         "name": "beIN Sports 3 | A",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png",
-        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_3_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs3.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -242,7 +242,7 @@
         "type": "stream",
         "name": "beIN Sports 4 | A",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png",
-        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_4_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs4.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -260,7 +260,7 @@
         "type": "stream",
         "name": "beIN Sports 5 | A",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png",
-        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_5_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs5.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
