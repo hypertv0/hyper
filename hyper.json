@@ -305,7 +305,7 @@
         "type": "stream",
         "name": "S Sport 1 | A",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/54/1002317544415eb9542c_op_0_XL.webp",
-        "stream_url": "https://file.garden/Z-hq5n4Shk27aY58/saran1.m3u8"
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivess1.m3u8"
       },
       {
         "type": "stream",
@@ -320,7 +320,7 @@
         "type": "stream",
         "name": "S Sport 2 | A",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1003073844435eb9542c_op_0_XL.webp",
-        "stream_url": "https://file.garden/Z-hq5n4Shk27aY58/saran2.m3u8"
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivess2.m3u8"
       },
       {
         "type": "stream",
@@ -341,13 +341,13 @@
         "type": "stream",
         "name": "Tivibu Spor",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9P9OjXzXhPw-fDw0TEQjLbtxBiInVtMXqw&s",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8"
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivets.m3u8"
       },
       {
         "type": "stream",
         "name": "Tivibu Spor 1",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9P9OjXzXhPw-fDw0TEQjLbtxBiInVtMXqw&s",
-        "stream_url": "https://hypers.hypercors.workers.dev/Tivibu_Spor_1_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivets1.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -356,7 +356,7 @@
         "type": "stream",
         "name": "Tivibu Spor 2",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9P9OjXzXhPw-fDw0TEQjLbtxBiInVtMXqw&s",
-        "stream_url": "https://hypers.hypercors.workers.dev/Tivibu_Spor_2_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivets2.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -365,7 +365,7 @@
         "type": "stream",
         "name": "Tivibu Spor 3",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9P9OjXzXhPw-fDw0TEQjLbtxBiInVtMXqw&s",
-        "stream_url": "https://hypers.hypercors.workers.dev/Tivibu_Spor_3_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivets3.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -374,7 +374,7 @@
         "type": "stream",
         "name": "Tivibu Spor 4",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9P9OjXzXhPw-fDw0TEQjLbtxBiInVtMXqw&s",
-        "stream_url": "https://hypers.hypercors.workers.dev/Tivibu_Spor_4_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivets4.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
