@@ -1041,7 +1041,7 @@
         "type": "stream",
         "name": "Cartoon Network",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/15/0921355543825eb9b42e_op_0_XL.webp",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8"
+        "stream_url": "https://dsmartgo-live.ercdn.net/cartoonnetwork/cartoonnetwork.m3u8"
       },
       {
         "type": "stream",
@@ -1101,7 +1101,7 @@
         "type": "stream",
         "name": "Çocuk Smart",
         "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/COCUKSMART.png",
-        "stream_url": "https://hypertv.onrender.com/play/42777502752e5d9e973898.m3u8"
+        "stream_url": "https://dsmartgo-live.ercdn.net/smartcocuk/smartcocuk.m3u8"
       },
       {
         "type": "stream",
