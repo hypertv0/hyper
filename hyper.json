@@ -783,19 +783,19 @@
         "type": "stream",
         "name": "Viasat Explore ",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/42/1031241804645eb9542c_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://zlatan.ottcimbenim01.workers.dev/viasatexplore.m3u8"
       },
       {
         "type": "stream",
         "name": "Viasat History ",
         "logo": "https://syhottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181107/001300/XTV100000964/4e141289-c05c-420a-a577-00f1321af02b.png",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/viasathistory/viasathistory.m3u8"
       },
       {
         "type": "stream",
         "name": "Tarih TV ",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/65/1010519852495eb8f42a_op_0_XL.webp",
-        "stream_url": "https://ds.ayakkabiparti.lol/tarihtv/index.m3u8"
+        "stream_url": "https://dsmartgo-live.ercdn.net/tarihtv/tarihtv.m3u8"
       },
       {
         "type": "stream",
@@ -807,7 +807,7 @@
         "type": "stream",
         "name": "Love Nature ",
         "logo": "https://syhottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180607/001300/XTV100000871/652122cd-43e7-4a44-bf21-7b50cc81fac7.png",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/lovenature/lovenature.m3u8"
       },
       {
         "type": "stream",
@@ -825,13 +825,17 @@
         "type": "stream",
         "name": "Yaban TV",
         "logo": "https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8"
+        "stream_url": "http://116.202.238.88/YABANTV_TR/index.m3u8"
       },
       {
         "type": "stream",
         "name": "Köy TV",
         "logo": "http://assets.tvcdn.net/6014fb29-bf4c-4e83-8982-949179e6bd8e.png",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/7a1294e7-9fa8-4c3d-89b8-eb67e33bc2e6.m3u8"
+        "stream_url": "https://helga.iptv2022.com/koy_tv/index.m3u8",
+        "headers": {
+          "Referer": "https://turkcanli.tv",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; AndroidTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       },
       {
         "type": "stream",
@@ -843,13 +847,13 @@
         "type": "stream",
         "name": "Tarım TV",
         "logo": "https://syhottvsc08.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180714/001300/XTV100000888/a8183d27-d7fe-4fb8-a2e2-895b8fa2e1e1.png",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/9efc9a12-1d9b-4812-9596-021dbc3554d0.m3u8"
+        "stream_url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8"
       },
       {
         "type": "stream",
         "name": "Çiftçi TV",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250528/34/1051257598535eb78424_op_0_XL.webp",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/e71083cf-eb54-408b-8aba-d66690520801.m3u8"
+        "stream_url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8"
       }
     ]
   },
