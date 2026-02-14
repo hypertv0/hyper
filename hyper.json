@@ -1271,14 +1271,13 @@
     ]
   },
   {
-    "type": "stream",
+    "type": "playlist",
     "name": "",
     "logo": "",
-    "stream_url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01",
     "headers": {
       "User-Agent": "speedrestapi",
       "Referer": "https://speedrestapi.com/"
     },
-    "url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01"
+    "playlist_url": "https://raw.githubusercontent.com/hypertv0/hyperr/refs/heads/main/playlist.m3u"
   }
 ]
