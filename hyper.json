@@ -1234,21 +1234,9 @@
     "items": [
       {
         "type": "playlist",
-        "name": "Film İzle 1",
-        "logo": "",
-        "playlist_url": "https://raw.githubusercontent.com/ahmet21ahmet/Bo-/main/movies.m3u"
-      },
-      {
-        "type": "playlist",
         "name": "Dizi Son Bölümler",
         "logo": "",
         "playlist_url": "https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/dizi_son_bolumler?t=1764971154499"
-      },
-      {
-        "type": "playlist",
-        "name": "Belgesel İzle",
-        "logo": "",
-        "playlist_url": "https://raw.githubusercontent.com/hypertv0/hyperb/refs/heads/main/playlist.m3u"
       }
     ]
   },
