@@ -179,7 +179,7 @@
         "type": "stream",
         "name": "beIN Sports 1 | A",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_1_HD_(VIP).m3u8",
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/yula/ceydub1.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -200,7 +200,10 @@
         "type": "stream",
         "name": "beIN Sports 1 | D",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/megasmartgence90/AUTO-UPDATE-LINK/refs/heads/main/channels_files/beIN_Sports_1__.m3u8"
+        "stream_url": "https://raw.githubusercontent.com/megasmartgence90/AUTO-UPDATE-LINK/refs/heads/main/channels_files/beIN_Sports_1__.m3u8",
+        "headers": {
+          "Referer": "https://trgoals1275.xyz/"
+        }
       },
       {
         "type": "stream",
@@ -1234,9 +1237,21 @@
     "items": [
       {
         "type": "playlist",
+        "name": "Film İzle 1",
+        "logo": "",
+        "playlist_url": "https://raw.githubusercontent.com/ahmet21ahmet/Bo-/main/movies.m3u"
+      },
+      {
+        "type": "playlist",
         "name": "Dizi Son Bölümler",
         "logo": "",
         "playlist_url": "https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/dizi_son_bolumler?t=1764971154499"
+      },
+      {
+        "type": "playlist",
+        "name": "Belgesel İzle",
+        "logo": "",
+        "playlist_url": "https://raw.githubusercontent.com/hypertv0/hyperb/refs/heads/main/playlist.m3u"
       }
     ]
   },
