@@ -574,7 +574,7 @@
         "type": "stream",
         "name": "A Haber",
         "logo": "https://izmottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526514/e815ff70-dcad-419b-a01d-7643db080bed.png",
-        "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ahaber.m3u8"
+        "stream_url": "https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8"
       },
       {
         "type": "stream",
@@ -586,7 +586,11 @@
         "type": "stream",
         "name": "CNN Türk",
         "logo": "https://izmottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20141015/001300/001300000008479090/2bc3b2ae-9d09-4380-bc32-3e6affca7626.png",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/b9cb7e10-ef07-4379-ab36-039286fcd8f8.m3u8"
+        "stream_url": "https://helga.iptv2022.com/cnn_turk/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; AndroidTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "Referer": "https://turkcanli.tv"
+        }
       },
       {
         "type": "stream",
@@ -610,7 +614,7 @@
         "type": "stream",
         "name": "Halk TV",
         "logo": "https://izmottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008479022/e2e934e9-b0ee-4448-9c55-8bd56ecbc21b.png",
-        "stream_url": "http://stream.tvcdn.net/haber/halk-tv.m3u8"
+        "stream_url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8"
       },
       {
         "type": "stream",
@@ -628,7 +632,7 @@
         "type": "stream",
         "name": "Ülke TV",
         "logo": "https://izmottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160921/001300/001300000008479107/a1fc0bf3-29f0-4c40-a881-bb8fc5cdee18.png",
-        "stream_url": "http://stream.tvcdn.net/haber/ulke-tv.m3u8"
+        "stream_url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8"
       },
       {
         "type": "stream",
@@ -688,7 +692,7 @@
         "type": "stream",
         "name": "Sözcü TV",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/54/1000562034815eb9b42e_op_0_XL.webp",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8"
+        "stream_url": "https://dsmartgo-live.ercdn.net/sozcutv/sozcutv.m3u8"
       },
       {
         "type": "stream",
