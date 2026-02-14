@@ -874,25 +874,25 @@
         "type": "stream",
         "name": "Sinema TV",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/0/0959572110155eb8f42a_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinematv1/sinematv1.m3u8"
       },
       {
         "type": "stream",
         "name": "Sinema TV 2",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/9/0953500773955eb9542c_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinematv2/sinematv2.m3u8"
       },
       {
         "type": "stream",
         "name": "Sinema TV Komedi",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/2/0957104452425eb7f426_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinemakomedi/sinemakomedi.m3u8"
       },
       {
         "type": "stream",
         "name": "Sinema TV Komedi 2",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/2/0957104452425eb7f426_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinemakomedi2/sinemakomedi2.m3u8"
       },
       {
         "type": "stream",
@@ -910,43 +910,43 @@
         "type": "stream",
         "name": "Sinema TV Aile",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/84/0954337290115eb8f42a_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinemaaile/sinemaaile.m3u8"
       },
       {
         "type": "stream",
         "name": "Sinema TV Aile 2",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/11/0955122162395eb7f426_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinemaaile2/sinemaaile2.m3u8"
       },
       {
         "type": "stream",
         "name": "Sinema TV Aksiyon",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/15/0955472569555eb88428_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinemaaksiyon/sinemaaksiyon.m3u8"
       },
       {
         "type": "stream",
         "name": "Sinema TV Aksiyon 2",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/12/0956240722405eb7f426_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinemaaksiyon/sinemaaksiyon.m3u8"
       },
       {
         "type": "stream",
         "name": "Sinema TV 1001",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/8/0952164683935eb9542c_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinema1001/sinema1001.m3u8"
       },
       {
         "type": "stream",
         "name": "Sinema TV 1002",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/76/0952594953945eb9542c_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/sinema1002/sinema1002.m3u8"
       },
       {
         "type": "stream",
         "name": "FX",
         "logo": "https://gbzeottvsc22.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/52/0932479388255eb78424_op_0_XL.webp",
-        "stream_url": ""
+        "stream_url": "https://saran-live.ercdn.net/fx/index.m3u8"
       },
       {
         "type": "stream",
