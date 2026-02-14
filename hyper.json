@@ -221,7 +221,7 @@
         "type": "stream",
         "name": "beIN Sports 2 | B",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebiraz2.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_2_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -239,7 +239,7 @@
         "type": "stream",
         "name": "beIN Sports 3 | B",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebiraz3.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_3_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -257,7 +257,7 @@
         "type": "stream",
         "name": "beIN Sports 4 | B",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebiraz4.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_4_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -275,7 +275,7 @@
         "type": "stream",
         "name": "beIN Sports 5 | B",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebiraz5.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Sports_5_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -284,7 +284,7 @@
         "type": "stream",
         "name": "beIN Sports Max 1",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebsm1.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Max_1_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -293,7 +293,7 @@
         "type": "stream",
         "name": "beIN Sports Max 2",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebsm2.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Max_2_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -317,7 +317,7 @@
         "type": "stream",
         "name": "S Sport 1 | B",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/54/1002317544415eb9542c_op_0_XL.webp",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivess1.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/S_Sport_1_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -332,7 +332,7 @@
         "type": "stream",
         "name": "S Sport 2 | B",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1003073844435eb9542c_op_0_XL.webp",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivess2.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/S_Sport_2_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -389,7 +389,7 @@
         "type": "stream",
         "name": "Spor Smart 1 | A",
         "logo": "https://i.hizliresim.com/3eqt9es.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivesm1.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/Smart_Spor_1_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -407,7 +407,7 @@
         "type": "stream",
         "name": "Spor Smart 2 | A",
         "logo": "https://i.hizliresim.com/3eqt9es.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivesm2.m3u8",
+        "stream_url": "https://hypers.hypercors.workers.dev/Smart_Spor_2_HD.m3u8",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -424,49 +424,49 @@
       {
         "type": "stream",
         "name": "Tabii Spor",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/24/1010072941195eb7f426_op_0_XL.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s",
         "stream_url": "https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8"
       },
       {
         "type": "stream",
         "name": "Tabii Spor 1",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/24/1010072941195eb7f426_op_0_XL.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s",
         "stream_url": "https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8"
       },
       {
         "type": "stream",
         "name": "Tabii Spor 2",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/24/1010072941195eb7f426_op_0_XL.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s",
         "stream_url": "https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8"
       },
       {
         "type": "stream",
         "name": "Tabii Spor 3",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/24/1010072941195eb7f426_op_0_XL.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s",
         "stream_url": "https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8"
       },
       {
         "type": "stream",
         "name": "Tabii Spor 4",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/24/1010072941195eb7f426_op_0_XL.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s",
         "stream_url": "https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8"
       },
       {
         "type": "stream",
         "name": "Tabii Spor 5",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/24/1010072941195eb7f426_op_0_XL.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s",
         "stream_url": "https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8"
       },
       {
         "type": "stream",
         "name": "Tabii Spor 6",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/24/1010072941195eb7f426_op_0_XL.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s",
         "stream_url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8"
       },
       {
         "type": "stream",
         "name": "Tabii Spor 7",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/24/1010072941195eb7f426_op_0_XL.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErjZujaIDxz6nuG3ZfOKlwU4P0T3q_seMEQ&s",
         "stream_url": "https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8"
       },
       {
@@ -490,7 +490,7 @@
       {
         "type": "stream",
         "name": "FB TV",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250528/26/1110480969645eb88428_op_0_XL.webp",
+        "logo": "https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png",
         "stream_url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
       },
       {
@@ -550,7 +550,7 @@
       {
         "type": "stream",
         "name": "Sports TV",
-        "logo": "https://gbzottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/64/2133190739265eb9b42e_op_0_XL.webp",
+        "logo": "https://izmottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/logo/202102/20210225/1/20210225220257171kgn_op_0_XL.png",
         "stream_url": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
       },
       {
@@ -1018,25 +1018,7 @@
         "type": "stream",
         "name": "Movie Smart Türk",
         "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/MOVIESMART%20TURK.png",
-        "stream_url": ""
-      },
-      {
-        "type": "stream",
-        "name": "TiviTürk",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYOiHpOfyHq7BcakMhmYzZtz44Wj26xVySSk7RotDtA&s=10",
-        "stream_url": ""
-      },
-      {
-        "type": "stream",
-        "name": "Deniz Postası",
-        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
-        "stream_url": ""
-      },
-      {
-        "type": "stream",
-        "name": "Cine 1",
-        "logo": "https://cine1.com.tr/img/cine1loogo.png",
-        "stream_url": ""
+        "stream_url": "https://dsmartgo-live.ercdn.net/moviesmartturk/moviesmartturk.m3u8"
       }
     ]
   },
