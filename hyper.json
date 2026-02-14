@@ -518,7 +518,7 @@
         "type": "stream",
         "name": "NBA TV",
         "logo": "https://izmottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20161025/001300/XTV100000186/88a73bff-0152-4ebb-b62e-309504ad4d76.png",
-        "stream_url": ""
+        "stream_url": "http://89.105.221.127/NBATV/index.m3u8?token=test"
       },
       {
         "type": "stream",
