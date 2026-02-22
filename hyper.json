@@ -209,7 +209,10 @@
         "type": "stream",
         "name": "beIN Sports 1 | E",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://hypertv.onrender.com/play/1536730627bbf8f95ca477.m3u8"
+        "stream_url": "https://hypertv.onrender.com/play/1536730627bbf8f95ca477.m3u8",
+        "headers": {
+          "Referer": "https://vavoo.to/"
+        }
       },
       {
         "type": "stream",
