@@ -1262,10 +1262,13 @@
     "type": "stream",
     "name": "",
     "logo": "",
-    "stream_url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01",
+    "stream_url": "https://imgcom.site/panel/pro-oho/chgolge.php?id=https://kool.to/kool-iptv/play/267105889a25a483e5e80&golgetoken=QXowdTZ0eWtCTEhLbXhYTmUySWZrb2FKZm9PR09seW11dWNWWDVNYWJUeVdOejVDMWRIZThGZFd6TDNsM0FhZ2RPZ2VjVGplY1FNb2o4Si9nZHE3K2c9PQ==",
     "headers": {
-      "User-Agent": "speedrestapi",
-      "Referer": "https://speedrestapi.com/"
+      "Referer": "https://golgetv.com/",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36",
+      "origin": "https://golgetv.com",
+      "x-requested-with": "com.pro.golgetv",
+      "x-forwarded-for": "1.1.1.1"
     },
     "url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01"
   }
