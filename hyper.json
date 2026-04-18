@@ -12,7 +12,7 @@
         "type": "stream",
         "name": "ATV",
         "logo": "https://izmottvsc05.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png",
-        "stream_url": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8"
+        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
       },
       {
         "type": "stream",
@@ -120,7 +120,7 @@
         "type": "stream",
         "name": "TYT Türk",
         "logo": "https://gbzeottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/1/1029375722595eb8f42a_op_0_XL.webp",
-        "stream_url": "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8"
+        "stream_url": "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8"
       },
       {
         "type": "stream",
@@ -530,13 +530,13 @@
         "type": "stream",
         "name": "NBA TV",
         "logo": "https://izmottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20161025/001300/XTV100000186/88a73bff-0152-4ebb-b62e-309504ad4d76.png",
-        "stream_url": "http://89.105.221.127/NBATV/index.m3u8?token=test"
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivenba.m3u8"
       },
       {
         "type": "stream",
         "name": "Eurosports 1",
         "logo": "https://izmottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20161229/001300/XTV100000359/9a300420-c296-4635-b523-2708e114578c.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivees1.m3u8"
+        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
       },
       {
         "type": "stream",
@@ -548,13 +548,13 @@
         "type": "stream",
         "name": "CBC Spor ",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXtYR4fiIG6dl9RKUFKlFsBcyIO1zTNbCddA&s",
-        "stream_url": ""
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivecbcs.m3u8"
       },
       {
         "type": "stream",
         "name": "İdman TV",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCX2AAfFaGPRZcq1rD063N07CMOt0sgNO17QSiLkwtxuEjMwVuJdF4gDTW&s=10",
-        "stream_url": ""
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamliveidm.m3u8"
       },
       {
         "type": "stream",
@@ -566,13 +566,13 @@
         "type": "stream",
         "name": "Sports TV",
         "logo": "https://gbzottvsc36.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/64/2133190739265eb9b42e_op_0_XL.webp",
-        "stream_url": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
+        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
       },
       {
         "type": "stream",
         "name": "Sky Sports F1 ",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsluC5jVxJ4uUr4GLMB-zb9HyI58dHGTnDlAR3PlqkjmqNWUqt0jKpPwN&s=10",
-        "stream_url": ""
+        "stream_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free"
       },
       {
         "type": "stream",
