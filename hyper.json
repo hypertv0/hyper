@@ -204,14 +204,18 @@
         "headers": {
           "origin": "https://taraftarium.xyz",
           "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://taraftarium1046.xyz/"
         }
       },
       {
         "type": "stream",
         "name": "beIN Sports 1 | E",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://lively-breeze-3ac7.keyzo38.workers.dev?u=https://trgoalsgiris.xyz&id=zirve/mono&json"
+        "stream_url": "https://lively-breeze-3ac7.keyzo38.workers.dev?u=https://trgoalsgiris.xyz&id=zirve/mono&json",
+        "headers": {
+          "Referer": "https://taraftarium1046.xyz/",
+          "origin": "https://taraftarium1046.xyz"
+        }
       },
       {
         "type": "stream",
