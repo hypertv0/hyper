@@ -203,7 +203,8 @@
         "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_zirve.m3u8",
         "headers": {
           "Referer": "https://taraftarium.xyz/",
-          "origin": "https://taraftarium.xyz"
+          "origin": "https://taraftarium.xyz",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
         }
       },
       {
@@ -230,7 +231,8 @@
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png",
         "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b2.m3u8",
         "headers": {
-          "Referer": "https://taraftarium.xyz/"
+          "Referer": "https://taraftarium.xyz/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
         }
       },
       {
@@ -249,7 +251,8 @@
         "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b3.m3u8",
         "headers": {
           "Referer": "https://taraftarium.xyz/",
-          "origin": "https://taraftarium.xyz"
+          "origin": "https://taraftarium.xyz",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
         }
       },
       {
@@ -268,7 +271,8 @@
         "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b4.m3u8",
         "headers": {
           "Referer": "https://taraftarium.xyz/",
-          "origin": "https://taraftarium.xyz"
+          "origin": "https://taraftarium.xyz",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
         }
       },
       {
@@ -286,7 +290,8 @@
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png",
         "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b5.m3u8",
         "headers": {
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://trgoals1275.xyz/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
         }
       },
       {
@@ -296,7 +301,8 @@
         "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_bm1.m3u8",
         "headers": {
           "Referer": "https://taraftarium.xyz/",
-          "origin": "https://taraftarium.xyz"
+          "origin": "https://taraftarium.xyz",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
         }
       },
       {
@@ -306,7 +312,8 @@
         "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_bm1.m3u8",
         "headers": {
           "Referer": "https://taraftarium.xyz/",
-          "origin": "https://taraftarium.xyz"
+          "origin": "https://taraftarium.xyz",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
         }
       },
       {
