@@ -194,24 +194,27 @@
         "type": "stream",
         "name": "beIN Sports 1 | C",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebiraz1.m3u8"
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_zirve.m3u8",
+        "headers": {
+          "Referer": "https://taraftarium.xyz/"
+        }
       },
       {
         "type": "stream",
         "name": "beIN Sports 1 | D",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim/b1.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_zirve.m3u8",
         "headers": {
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://taraftarium.xyz/"
         }
       },
       {
         "type": "stream",
         "name": "beIN Sports 1 | E",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/atom/bein-sports-1.m3u8",
+        "stream_url": "https://lively-breeze-3ac7.keyzo37.workers.dev?u=https://trgoalsgiris.xyz&id=zirve/mono&json",
         "headers": {
-          "Referer": "https://vavoo.to/"
+          "Referer": "https://taraftarium.xyz/"
         }
       },
       {
@@ -227,9 +230,9 @@
         "type": "stream",
         "name": "beIN Sports 2 | B",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim/b2.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b2.m3u8",
         "headers": {
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://taraftarium.xyz/"
         }
       },
       {
@@ -245,9 +248,9 @@
         "type": "stream",
         "name": "beIN Sports 3 | B",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim/b3.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b3.m3u8",
         "headers": {
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://taraftarium.xyz/"
         }
       },
       {
@@ -263,9 +266,9 @@
         "type": "stream",
         "name": "beIN Sports 4 | B",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim/b4.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b4.m3u8",
         "headers": {
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://taraftarium.xyz/"
         }
       },
       {
@@ -281,27 +284,27 @@
         "type": "stream",
         "name": "beIN Sports 5 | B",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png",
-        "stream_url": "https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim/b5.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b5.m3u8",
         "headers": {
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://taraftarium.xyz/"
         }
       },
       {
         "type": "stream",
         "name": "beIN Sports Max 1",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png",
-        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Max_1_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_bm1.m3u8",
         "headers": {
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://taraftarium.xyz/"
         }
       },
       {
         "type": "stream",
         "name": "beIN Sports Max 2",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png",
-        "stream_url": "https://hypers.hypercors.workers.dev/Bein_Max_2_HD.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_bm2.m3u8",
         "headers": {
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://taraftarium.xyz/"
         }
       },
       {
@@ -1262,13 +1265,10 @@
     "type": "stream",
     "name": "",
     "logo": "",
-    "stream_url": "https://imgcom.site/panel/pro-oho/chgolge.php?id=https://kool.to/kool-iptv/play/267105889a25a483e5e80&golgetoken=QXowdTZ0eWtCTEhLbXhYTmUySWZrb2FKZm9PR09seW11dWNWWDVNYWJUeVdOejVDMWRIZThGZFd6TDNsM0FhZ2RPZ2VjVGplY1FNb2o4Si9nZHE3K2c9PQ==",
+    "stream_url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01",
     "headers": {
-      "Referer": "https://golgetv.com/",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36",
-      "origin": "https://golgetv.com",
-      "x-requested-with": "com.pro.golgetv",
-      "x-forwarded-for": "1.1.1.1"
+      "User-Agent": "speedrestapi",
+      "Referer": "https://speedrestapi.com/"
     },
     "url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01"
   }
