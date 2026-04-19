@@ -215,8 +215,8 @@
         "stream_url": "https://hypertv.onrender.com/play/1536730627bbf8f95ca477.m3u8",
         "headers": {
           "Referer": "https://vavoo.to",
-          "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/33.0 Mobile/15E148 Safari/605.1.15",
-          "Origin": "https://vavoo.to"
+          "Origin": "https://vavoo.to",
+          "User-Agent": "VAVOO"
         }
       },
       {
