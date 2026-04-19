@@ -197,17 +197,15 @@
         "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebiraz1.m3u8"
       },
       {
-        "type": "stream",
-        "name": "beIN Sports 1 | D",
-        "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://sweet-bonus-a6fe.hypercors.workers.dev/?url=https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_zirve.m3u8",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
-          "Referer": "https://taraftarium.xyz/",
-          "Origin": "https://taraftarium.xyz",
-          "Accept-Encoding": "gzip"
-        }
-      },
+  "type": "stream",
+  "name": "Zirve Yayın (Taraftarium)",
+  "stream_url": "https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_zirve.m3u8",
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
+    "Referer": "https://taraftarium.xyz/",
+    "Origin": "https://taraftarium.xyz"
+  }
+},
       {
         "type": "stream",
         "name": "beIN Sports 1 | E",
