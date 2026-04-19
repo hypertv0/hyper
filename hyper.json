@@ -216,7 +216,7 @@
         "headers": {
           "Referer": "https://vavoo.to",
           "Origin": "https://vavoo.to",
-          "User-Agent": "VAVOO"
+          "User-Agent": "VAVOO/2.6"
         }
       },
       {
