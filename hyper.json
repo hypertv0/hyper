@@ -1283,5 +1283,11 @@
       "Referer": "https://speedrestapi.com/"
     },
     "url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01"
+  },
+  {
+    "type": "dizipal",
+    "name": "Film",
+    "logo": "",
+    "playlist_url": "/filmler"
   }
 ]
