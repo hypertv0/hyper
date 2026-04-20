@@ -170,10 +170,10 @@
         "playlist_url": "https://raw.githubusercontent.com/bscandua/D-zzserisi/refs/heads/main/atom.m3u"
       },
       {
-        "type": "playlist",
+        "type": "webview",
         "name": "Spor Panel 3",
         "logo": "https://i.hizliresim.com/70vy3pq.png",
-        "playlist_url": "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/mono.m3u?t=1776682309543"
+        "url": "https://mehmetey3.serv00.net/taraftariumproxy.php?url=https://r9m.zirvedesin227.cfd/zirve/mono.m3u8"
       },
       {
         "type": "stream",
