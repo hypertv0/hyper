@@ -200,7 +200,7 @@
         "type": "stream",
         "name": "beIN Sports 1 | D",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "stream_url": "https://raw.githubusercontent.com/hypertv0/hypert/refs/heads/main/kanallar/BeIN_Sports_1.m3u8",
+        "stream_url": "https://raw.githubusercontent.com/hypertv0/hypert/refs/heads/main/kanallar/Bein_Sports_1_HD.m3u8",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
           "Referer": "https://taraftarium1049.xyz/",
