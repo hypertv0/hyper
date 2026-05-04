@@ -155,7 +155,7 @@
         "type": "playlist",
         "name": "Süper Lig Maç Özetleri",
         "logo": "https://media01.tr.beinsports.com/img/highlights/ozet.jpg",
-        "playlist_url": "https://raw.githubusercontent.com/hypertv0/hypert/refs/heads/main/ozet.m3u"
+        "playlist_url": "https://raw.githubusercontent.com/bscandua/raply/refs/heads/main/metv/all_leagues.m3u"
       },
       {
         "type": "playlist",
