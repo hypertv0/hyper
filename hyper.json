@@ -1035,7 +1035,10 @@
         "type": "stream",
         "name": "Cartoon Network",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/15/0921355543825eb9b42e_op_0_XL.webp",
-        "stream_url": "https://dsmartgo-live.ercdn.net/cartoonnetwork/cartoonnetwork.m3u8"
+        "stream_url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cartoonnetwork_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDcvMDMvMjAyNiAwODoxOToxMyBQTSZoYXNoX3ZhbHVlPXFucmxMUlV2aENkMWdLUlhkdEJRS0E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1jYjZmZGMwMi1iOGJlLTQ3MTYtYTZjYi1iZTEyYTg4YjdmMDksMzBhMzljOWUtYThkNi00YTAwLTk0MGYtMWMxMTg0ODNkNzEyLGI3NDZhYzI3LTRkNmEtNGZjYi04Y2IzLThkM2ZlYjA1OTc3OCwzRUY3NSw3OC4xNzEuNDEuODYsMTc4MzEyMDc1MyZjbGllbnRfaXA9NzguMTcxLjQxLjg2JmNoZWNraXA9dHJ1ZQ==",
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 12; Pixel 6 Build/SP2A.220505.002)"
+        }
       },
       {
         "type": "stream",
@@ -1059,13 +1062,13 @@
         "type": "stream",
         "name": "Nickelodeon",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/20/0944434563965eb9b42e_op_0_XL.webp",
-        "stream_url": "https://hypertv.onrender.com/play/503443750d4adaa3772e8.m3u8"
+        "stream_url": "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F503443750d4adaa3772e8"
       },
       {
         "type": "stream",
         "name": "Nick jr",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/20/0945187882335eb7f426_op_0_XL.webp",
-        "stream_url": "https://hypertv.onrender.com/play/85708551c8303cc96ebd.m3u8"
+        "stream_url": "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F503443750d4adaa3772e8"
       },
       {
         "type": "stream",
@@ -1095,13 +1098,7 @@
         "type": "stream",
         "name": "Çocuk Smart",
         "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/COCUKSMART.png",
-        "stream_url": "https://dsmartgo-live.ercdn.net/smartcocuk/smartcocuk.m3u8"
-      },
-      {
-        "type": "stream",
-        "name": "Kral Şakir",
-        "logo": "https://static.wikia.nocookie.net/king-shakir/images/8/8c/Kral_%C5%9Eakir_-_Logo_%28Turkish%29.png/revision/latest/scale-to-width-down/220?cb=20200523012555",
-        "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/kral-sakir-cn.m3u8"
+        "stream_url": "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F1884291733f97af60f283a"
       }
     ]
   },
