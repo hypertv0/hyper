@@ -522,12 +522,6 @@
       },
       {
         "type": "stream",
-        "name": "GS TV",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1ndo0vjEMitBp9Iw7LdEyOWKpVI6tbdo_w&s",
-        "stream_url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8"
-      },
-      {
-        "type": "stream",
         "name": "HT Spor",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OGfEykB1-MyCz39l_ymPf33L4UX-ZVI6WQ&s",
         "stream_url": "https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8"
@@ -548,7 +542,7 @@
         "type": "stream",
         "name": "Eurosports 1",
         "logo": "https://izmottvsc33.tvplus.com.tr:33207/CPS/images/universal/film/poster/20161229/001300/XTV100000359/9a300420-c296-4635-b523-2708e114578c.png",
-        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
+        "stream_url": "https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivees1.m3u8"
       },
       {
         "type": "stream",
@@ -578,7 +572,12 @@
         "type": "stream",
         "name": "Sports TV",
         "logo": "https://gbzottvsc36.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/64/2133190739265eb9b42e_op_0_XL.webp",
-        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
+        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb",
+        "headers": {
+          "User-Agent": "com.dsmart.go.android/4.0.07 (Android/12; tr_TR; brand/Google; model/Flame; build/QQ3A.211001.001)",
+          "token": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIiwiY3R5IjoiSldUIn0.UOUSdP0uvmAIT5Z90bRfvk00qNGK27ts0sjgpVZYF7W8Ho9cecTTDQ.wdRWyH1aS8vs-qzcne0CHw.397KzQMa2Jt_qE3MeE2QGDyr3QxipyjFbgxA56YpaQ9ZVLNgkLE9AxDwL7hGCXxFPscMZfxb_hZebDxTn9vYHLV8HYzk7BNvM54Fs-lywugSHUYUU2Sjbb9nhAVm0ti1wkT3QCG3rg-G6VKoan-XZ_uHYvFxak4nUZdGapEcMISiprAmz5Ns519ebsIGYU9u8eL6V0p9DJ6kQcXdI7fHQ_JPplbgHryeOyHfWl3usMqBqjUUOd86FWVVX2aArnYYY0V7FTO2ZRNVtdNMBsUBkkDJGI8NjvWBXrhtVce2xWVkqa5AA1wTrYaewG2lpvLDEFpDUDKmmeyifgxweehwp4I7DLgNNbGWXFLy-BGaxSQaXEzJQ4c-HKvRp3t69WE35jXJ8LEG-gl5RjmJk6YDMJ9xmOXbhg229o-pVBDUmBwnW7B1B_093avbu5PnsEjR_GftWM-mMDdlNoKrRJo1GIDoOT9OAAq05AFuEhd_2_k-vJychUbTSRBVXvSo-NTl2qrwHu7KvbwPgUXvZS8JCi7CdyvTLnpA8V9Lsy3to5z5Q1p05Ieg775N1DoOGLS6-CBuh5tHkcu6yTunMuSJeTzPfpQ9AyUXpRxQJqUvlAvy9daPwmvUK295sZWKD9iU4PfmqmtIGFe9qjDoRlqEfJUus0zo6TrJahCNEWi_rNA6nc6llVZMXkCWi27crkRtvtGwIPHqUsvT4NA3KDlfzw.1k8eh4SzZZK70QWtPvN2jw",
+          "apikey": "78545da6e0eb4b41abaf2c8c2ec657cc"
+        }
       },
       {
         "type": "stream",
