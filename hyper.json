@@ -1245,7 +1245,7 @@
         "type": "playlist",
         "name": "Film İzle 1",
         "logo": "",
-        "playlist_url": "https://raw.githubusercontent.com/ahmet21ahmet/Bo-/main/movies.m3u"
+        "playlist_url": "https://raw.githubusercontent.com/efendikral54-max/M3u-Listen/refs/heads/main/JetFilm.m3u"
       },
       {
         "type": "playlist",
@@ -1260,22 +1260,5 @@
         "playlist_url": "https://raw.githubusercontent.com/hypertv0/hyperb/refs/heads/main/playlist.m3u"
       }
     ]
-  },
-  {
-    "type": "stream",
-    "name": "",
-    "logo": "",
-    "stream_url": "https://raw.githubusercontent.com/hypertv0/Vs/refs/heads/main/kanallar/Bein_Sports_1_HD.m3u8",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 11; Luna OS Build/RD2A.211001.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.120 Safari/537.36",
-      "Referer": ""
-    },
-    "url": "https://str.filmizleeeee.cfd/GLB/?static=sinematv01"
-  },
-  {
-    "type": "dizipal",
-    "name": "Film",
-    "logo": "",
-    "playlist_url": "/"
   }
 ]
