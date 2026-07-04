@@ -12,7 +12,13 @@
         "type": "stream",
         "name": "ATV",
         "logo": "https://izmottvsc05.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png",
-        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
+        "stream_url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDcvMDQvMjAyNiAxMDoyMDowMCBBTSZoYXNoX3ZhbHVlPVF2a01mL3dJYUpxRE9JQ1J0b244bFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1jYjZmZGMwMi1iOGJlLTQ3MTYtYTZjYi1iZTEyYTg4YjdmMDksMzBhMzljOWUtYThkNi00YTAwLTk0MGYtMWMxMTg0ODNkNzEyLGI3NDZhYzI3LTRkNmEtNGZjYi04Y2IzLThkM2ZlYjA1OTc3OCwzRUY3NSw3OC4xNzEuNDEuODYsMTc4MzE3MTIwMCZjbGllbnRfaXA9NzguMTcxLjQxLjg2JmNoZWNraXA9dHJ1ZQ==",
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 12; Pixel 6 Build/SP2A.220505.002)",
+          "Accept-Encoding": "gzip",
+          "Host": "ottcdn.kablowebtv.net",
+          "Connection": "Keep-Alive"
+        }
       },
       {
         "type": "stream",
