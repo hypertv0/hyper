@@ -355,9 +355,14 @@
         "type": "stream",
         "name": "beIN Sports Haber",
         "logo": "https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_HABER_250x150_.png",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/5119d6e4-b347-4487-8704-f78e3027aa17.m3u8",
+        "stream_url": "https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&id=i7UpPgxfZZ8&$fields=playerResponse",
         "headers": {
-          "Referer": "https://trgoals1275.xyz/"
+          "Referer": "https://trgoals1275.xyz/",
+          "user-agent": "Dalvik/2.1.0 (Linux; U; Android 12; Pixel 6 Build/SP2A.220505.002)",
+          "x-goog-api-format-version": "2",
+          "content-type": "application/json",
+          "content-length": "116",
+          "accept-encoding": "gzip"
         }
       },
       {
@@ -394,7 +399,7 @@
         "type": "stream",
         "name": "S Sport+",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/S_Sport_Plus_Logo.png",
-        "stream_url": ""
+        "stream_url": "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F403604621968c940720735"
       },
       {
         "type": "stream",
@@ -604,13 +609,34 @@
         "type": "stream",
         "name": "Sports TV",
         "logo": "https://gbzottvsc36.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/64/2133190739265eb9b42e_op_0_XL.webp",
-        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
+        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb",
+        "alternatives": [
+          "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F3422827985f7ff6e82532a"
+        ],
+        "headers": {
+          "origin": "com.dsmart.go.android",
+          "langcode": "tr",
+          "user-agent": "com.dsmart.go.android/4.0.07 (Android/12; tr_TR; brand/Google; model/Flame; build/QQ3A.211001.001)",
+          "token": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIiwiY3R5IjoiSldUIn0.FMjN7LXG_dHhxQf4JsJeFDoKdVre8T15CTkM_cFgVbEmGp8Pg_pGAw.ijNh4LI6UE3YU3IO0r5KSg.ZblpwPAnIHpozag4DD_sXfA2zueolY8z4kq-_0fqJLjmR8AaZKjObbm3F7FzySe1PCCLWADLfi-gd7a30TgKlEq1x5CFB8mENT_UdFDSntq-RRE3QrU5dmWvG_bgQfRTNKxFp7W7YKNGRRUN6iqJ4j2TA_T7RUvqfBCJeuL8w8rXgzhmp8NWXBfGQunU2WcXyUsch3MiuU7mnuDP-ku44k2wVmS8JieTRrBHWd_o7BzOPAUTmDSNbHCmwXavk6SWgISTRZKGDaYQFJzG51X37TjJPbqvuVCBtv6CfuJECP7LjtdA_Fs9t69UYCYmlHc06EB3em0fp62ny9Zw3Qhzr59ky19tbnXRnjw6GY2XcOWXSl5DzLHS2o_owne3DXpcUd8ykNCGGy8s073HuOoYzaiQdpOD9ksukgfred0yxBRGU_e0KbNnu0DgUrs-OQgziKF4EUeV0-noc8LyxoDACPHUUI8U3rfQLis_12bxnp1cY5WVD1eHLAcHbJ3vPw9Vqf4-HUw_4ppFtJTd5MYuxL9VfFiwL9LRkCxSzYqV71iKcJJYCnVxRrxs2XspUHxPAG3sGlp4toPChsHLnNEoTl-vAg09hoNRXVc28PRysGCTsh3XligKBRlsBIao91Dg6v0qp9gr1r0lYc8IGVu9ZsWCyeM_bniVe3l6_qrDizDOeM-2_IJF0inhugMYfsN9-40lIH1fGUNqX-1WIU3Gbw.eiWfWGawAimqttDZHYx1Dw",
+          "apikey": "78545da6e0eb4b41abaf2c8c2ec657cc",
+          "sec": "t9dgpCJQTt0LQGaRreVghvfg5Qc0BnMc7VnxibX540615afa",
+          "content-type": "application/json",
+          "content-length": "201",
+          "accept-encoding": "gzip"
+        }
       },
       {
         "type": "stream",
         "name": "Sky Sports F1 ",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsluC5jVxJ4uUr4GLMB-zb9HyI58dHGTnDlAR3PlqkjmqNWUqt0jKpPwN&s=10",
-        "stream_url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+f1&code=gb&user=cdnlivetv&plan=free"
+        "stream_url": "https://wild-math-fe86.laneswitcha21684.workers.dev?c=uk-sky-sports-f1&json",
+        "alternatives": [
+          "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F3788216934ee14580f4aa2"
+        ],
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
+          "accept-encoding": "gzip"
+        }
       },
       {
         "type": "stream",
