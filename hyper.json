@@ -150,6 +150,24 @@
         "name": "TRT Genç",
         "logo": "https://syhottvsc05.tvplus.com.tr:33207/CPS/images/universal/film/logo/202601/20260115/35/1205459746305eb9b42e_op_0_XL.png",
         "stream_url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+      },
+      {
+        "type": "stream",
+        "name": "Kanal 7 Avrupa",
+        "logo": "https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7avrupa/images/kanal7avrupa_logo.png",
+        "stream_url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
+      },
+      {
+        "type": "stream",
+        "name": "Eurostar",
+        "logo": "https://www.eurostartv.com.tr/img/logo.png",
+        "stream_url": "https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=POYY4JW4BpcXsPb85SX4Vw&e=1783250606"
+      },
+      {
+        "type": "stream",
+        "name": "Euro D",
+        "logo": "https://eurod.kanald.com.tr/assets/img/logo.v5.png",
+        "stream_url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8"
       }
     ]
   },
