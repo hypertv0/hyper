@@ -615,7 +615,18 @@
         "type": "stream",
         "name": "A Haber",
         "logo": "https://izmottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526514/e815ff70-dcad-419b-a01d-7643db080bed.png",
-        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
+        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb",
+        "headers": {
+          "origin": "com.dsmart.go.android",
+          "langcode": "tr",
+          "user-agent": "com.dsmart.go.android/4.0.07 (Android/12; tr_TR; brand/Google; model/Flame; build/QQ3A.211001.001)",
+          "token": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIiwiY3R5IjoiSldUIn0.EMhwO0bx1ONYdSz4_aNMD7EkbaKAdN1TGFog1D9RIQmsN1dD4HeKjA.jfs6TvqfUMDZPaJSUoZjPA.JJYpsnPVMLtY3mKhwaooFKt7UZKt3znpAvvJhRxAp0s0PARN1-5HVtU0cNCSkKiIf57Sd8UCF9u9fjSyqrQYbIgRapfZRFHMuzUoJuab_MNgykYB7w9gttZJkugs21oyCdpjGJ0Qt1tppVoo3XAoI5YGtl65QNZ4DJpxvfgRDbJ2biHz2gGEa5BcTDqcZ8BBxDiFyjZYVJPUEAu2kwZfh2FNgzku0W5eUeEDa2Run7ChRKq8LsR2cLd45qNReC-hqGvxgKApM360-eufyL6HHRZRaKXFhIagw4R7nsIx8bRFF0Ox3UQmkm2lerR0LTuDpRLJfs0mH1AUbv1ktxuekJHTcx4cyeWS5MDQJi1hgPBTCN37EXp_GbZGraHGiDMHU_kv17ODAcsiLry0OKgNIbf5htSWlEt5yaXaItPsj5mg5_t2iv3BJ6p4NOPQ7L53oBfuoxj9eZKEviPIgTfsFWB79WZIzu7t4b-FkKuNpYMfj23b9LlAUht2gLzqxHX3wIDfcLBXcZfTJOtQ8BqmT_kf5wANL3gaUHafdLEyeSoOBUmWPXVoeR7ygR66-TtvHsAYvEMzlrNVgushwAV5gjjpgCYSxEDTMwZZFO1PZ8fx6TAWTebSMFyVl7dTM6EJlKV6DGLoyEAMhsPBb-uj9vY6zLfWCSGiQsOdkHdoj_eJOXilk3PukKHZyP14p9j7Znyp04mPH-gNlxiZT0sh_A.saxiSieYtF4tWmyquJHJug",
+          "apikey": "78545da6e0eb4b41abaf2c8c2ec657cc",
+          "sec": "t9dgpCJQTt0LQGaRreVghvfg5Qc0BnMc7VnxibX540615afa",
+          "content-type": "application/json",
+          "content-length": "201",
+          "accept-encoding": "gzip"
+        }
       },
       {
         "type": "stream",
@@ -661,7 +672,7 @@
         "type": "stream",
         "name": "Ulusal Kanal",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/67/2123485258715eb9b42e_op_0_XL.webp",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/e8b425ad-571d-475d-a657-37bca8985836.m3u8"
+        "stream_url": "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F22498016558c1c9b866616"
       },
       {
         "type": "stream",
@@ -691,7 +702,7 @@
         "type": "stream",
         "name": "KRT TV",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/65/2126065527005eb9b42e_op_0_XL.webp",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/d474a997-0ba9-486e-a0c2-acc58cadf150.m3u8"
+        "stream_url": "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F331685130407411552595"
       },
       {
         "type": "stream",
@@ -703,37 +714,55 @@
         "type": "stream",
         "name": "Akit TV",
         "logo": "https://izmottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20181203/001300/XTV100000446/60f1e8bb-d157-414c-9473-36cd5331932c.png",
-        "stream_url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8"
+        "stream_url": "https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Akit.m3u8"
       },
       {
         "type": "stream",
         "name": "TV5",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/62/2136158827115eb88428_op_0_XL.webp",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/e12ae805-19c9-4c7f-ac92-cdd89d953d10.m3u8"
+        "stream_url": "https://radyotelekomtv.com/player/m3u8/d38a38af9446339ff2540c460955f115/chunklist_w262863789.m3u8"
       },
       {
         "type": "stream",
         "name": "Tvnet",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/14/2120155178705eb9b42e_op_0_XL.webp",
-        "stream_url": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8"
+        "stream_url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8"
       },
       {
         "type": "stream",
         "name": "TV100",
         "logo": "https://izmottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20190531/001300/XTV100001076/c376fe0f-f92d-4e49-aae1-08d2effb5ec8.png",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/d95e9a1b-3955-4643-8327-413da9a1ce60.m3u8"
+        "stream_url": "https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8"
       },
       {
         "type": "stream",
         "name": "Ekotürk",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/52/2116555980605eb9542c_op_0_XL.webp",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/50237544-8084-4092-b09c-234af5f951af.m3u8"
+        "stream_url": "https://ottcdn.kablowebtv.net/live_turksat_sub/ekoturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDcvMDQvMjAyNiAxMDo0MToyMSBBTSZoYXNoX3ZhbHVlPUlUWnk1QzdNUEtqNE05ZHJkalJXckE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1jYjZmZGMwMi1iOGJlLTQ3MTYtYTZjYi1iZTEyYTg4YjdmMDksMzBhMzljOWUtYThkNi00YTAwLTk0MGYtMWMxMTg0ODNkNzEyLGI3NDZhYzI3LTRkNmEtNGZjYi04Y2IzLThkM2ZlYjA1OTc3OCwzRUY3NSw3OC4xNzEuNDEuODYsMTc4MzE3MjQ4MSZjbGllbnRfaXA9NzguMTcxLjQxLjg2JmNoZWNraXA9dHJ1ZQ==",
+        "alternatives": [
+          "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F12014567934c0bd95e7df8"
+        ],
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 12; Pixel 6 Build/SP2A.220505.002)",
+          "Accept-Encoding": "gzip",
+          "Host": "ottcdn.kablowebtv.net",
+          "Connection": "Keep-Alive"
+        }
       },
       {
         "type": "stream",
         "name": "Sözcü TV",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/54/1000562034815eb9b42e_op_0_XL.webp",
-        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
+        "stream_url": "https://ottcdn.kablowebtv.net/live_turksat_sub/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDcvMDQvMjAyNiAxMDo0MToyMSBBTSZoYXNoX3ZhbHVlPUlUWnk1QzdNUEtqNE05ZHJkalJXckE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1jYjZmZGMwMi1iOGJlLTQ3MTYtYTZjYi1iZTEyYTg4YjdmMDksMzBhMzljOWUtYThkNi00YTAwLTk0MGYtMWMxMTg0ODNkNzEyLGI3NDZhYzI3LTRkNmEtNGZjYi04Y2IzLThkM2ZlYjA1OTc3OCwzRUY3NSw3OC4xNzEuNDEuODYsMTc4MzE3MjQ4MSZjbGllbnRfaXA9NzguMTcxLjQxLjg2JmNoZWNraXA9dHJ1ZQ==",
+        "alternatives": [
+          "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F960578312ee36cc17c5d2"
+        ],
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 12; Pixel 6 Build/SP2A.220505.002)",
+          "Accept-Encoding": "gzip",
+          "Host": "ottcdn.kablowebtv.net",
+          "Connection": "Keep-Alive"
+        }
       },
       {
         "type": "stream",
@@ -769,7 +798,18 @@
         "type": "stream",
         "name": "A Para",
         "logo": "https://gbzeottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/87/0912202162025eb7f426_op_0_XL.webp",
-        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb"
+        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb",
+        "headers": {
+          "origin": "com.dsmart.go.android",
+          "langcode": "tr",
+          "user-agent": "com.dsmart.go.android/4.0.07 (Android/12; tr_TR; brand/Google; model/Flame; build/QQ3A.211001.001)",
+          "token": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIiwiY3R5IjoiSldUIn0.EMhwO0bx1ONYdSz4_aNMD7EkbaKAdN1TGFog1D9RIQmsN1dD4HeKjA.jfs6TvqfUMDZPaJSUoZjPA.JJYpsnPVMLtY3mKhwaooFKt7UZKt3znpAvvJhRxAp0s0PARN1-5HVtU0cNCSkKiIf57Sd8UCF9u9fjSyqrQYbIgRapfZRFHMuzUoJuab_MNgykYB7w9gttZJkugs21oyCdpjGJ0Qt1tppVoo3XAoI5YGtl65QNZ4DJpxvfgRDbJ2biHz2gGEa5BcTDqcZ8BBxDiFyjZYVJPUEAu2kwZfh2FNgzku0W5eUeEDa2Run7ChRKq8LsR2cLd45qNReC-hqGvxgKApM360-eufyL6HHRZRaKXFhIagw4R7nsIx8bRFF0Ox3UQmkm2lerR0LTuDpRLJfs0mH1AUbv1ktxuekJHTcx4cyeWS5MDQJi1hgPBTCN37EXp_GbZGraHGiDMHU_kv17ODAcsiLry0OKgNIbf5htSWlEt5yaXaItPsj5mg5_t2iv3BJ6p4NOPQ7L53oBfuoxj9eZKEviPIgTfsFWB79WZIzu7t4b-FkKuNpYMfj23b9LlAUht2gLzqxHX3wIDfcLBXcZfTJOtQ8BqmT_kf5wANL3gaUHafdLEyeSoOBUmWPXVoeR7ygR66-TtvHsAYvEMzlrNVgushwAV5gjjpgCYSxEDTMwZZFO1PZ8fx6TAWTebSMFyVl7dTM6EJlKV6DGLoyEAMhsPBb-uj9vY6zLfWCSGiQsOdkHdoj_eJOXilk3PukKHZyP14p9j7Znyp04mPH-gNlxiZT0sh_A.saxiSieYtF4tWmyquJHJug",
+          "apikey": "78545da6e0eb4b41abaf2c8c2ec657cc",
+          "sec": "t9dgpCJQTt0LQGaRreVghvfg5Qc0BnMc7VnxibX540615afa",
+          "content-type": "application/json",
+          "content-length": "201",
+          "accept-encoding": "gzip"
+        }
       }
     ]
   },
