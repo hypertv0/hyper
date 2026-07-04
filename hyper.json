@@ -46,13 +46,13 @@
         "headers": {
           "origin": "com.dsmart.go.android",
           "langcode": "tr",
-          "user-agent": "com.dsmart.go.android/4.0.07 (Android/12; tr_TR; brand/Google; model/Flame; build/QQ3A.211001.001)",
-          "token": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIiwiY3R5IjoiSldUIn0.3gqbn8SvIgt094jAoPgxI8UmRV8ozoFY7gK7MfsQRrnkpAS-91h2ng.kBScrOFOxyPtPQYOh9y1Gg.rhR-jvpBisUpj2W8m6-zFa7iEk3ZGgigis5gEHDx9O51CYMDC_D5ccxj4HnGfdHll3hQRvuibSLgrgCPmqipsBP8UwLIQJtMeoAciLVIexearAIAEuec1NELXH8KqR1Sgu7VlifqhQuUui858mz-thlMAVy_kyq5c3L2LcGm7GlUbu2XGzW1I49ZuRiW8cWrcw0CoPnhXkQWemYN-KuLtFZsCqv0eZsbMDuqT1EP5X9Ci-knVpZ9VaP4UvyOuUgNf7IrAWb9vv0tFXE5SBoFcefqcPqVGBk6OCQHL1AAYD4gKmcCBj8Yq0f2xyEpklY6J5sOSjn_QRiN4AsnKAyyIGMpklIr8xUDqghnF462bgzvlWSVB693x8VgH1s8gHswCp4vQRNQyhjsyPrnJGgn8gomkgcz6mGAnEJGRqN1vb0kWhueW7LsL9zxsDP0ANvX86J4HqWD4EJGfqGScvd4Q239sRzWeu_u1ccmlHyRoGFFmL1I6cIly08FtVBI-iHEkwpohvG4kb2EtJ8D96lh0SNL7FZcKxui5fVvbp9h5XfXkYwBbR7LhhmGfF9l2sMBVAW_S9oY4bk9RelNJM1KqALIMdUEFd0ONReX3vEUgjkDC8itSIzoT02jpNKSH8hbwxgmbfcFKTLQ1aOJX_0lU_oFw27c6BdPqibCQdNRU4TUFGHHusLjSagc3WfmsqPGaZeWgweLJ3Z2gxlruBYQhA.-NpBWAKAyWgnPnutXHAyqA",
+          "token": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIiwiY3R5IjoiSldUIn0.EMhwO0bx1ONYdSz4_aNMD7EkbaKAdN1TGFog1D9RIQmsN1dD4HeKjA.jfs6TvqfUMDZPaJSUoZjPA.JJYpsnPVMLtY3mKhwaooFKt7UZKt3znpAvvJhRxAp0s0PARN1-5HVtU0cNCSkKiIf57Sd8UCF9u9fjSyqrQYbIgRapfZRFHMuzUoJuab_MNgykYB7w9gttZJkugs21oyCdpjGJ0Qt1tppVoo3XAoI5YGtl65QNZ4DJpxvfgRDbJ2biHz2gGEa5BcTDqcZ8BBxDiFyjZYVJPUEAu2kwZfh2FNgzku0W5eUeEDa2Run7ChRKq8LsR2cLd45qNReC-hqGvxgKApM360-eufyL6HHRZRaKXFhIagw4R7nsIx8bRFF0Ox3UQmkm2lerR0LTuDpRLJfs0mH1AUbv1ktxuekJHTcx4cyeWS5MDQJi1hgPBTCN37EXp_GbZGraHGiDMHU_kv17ODAcsiLry0OKgNIbf5htSWlEt5yaXaItPsj5mg5_t2iv3BJ6p4NOPQ7L53oBfuoxj9eZKEviPIgTfsFWB79WZIzu7t4b-FkKuNpYMfj23b9LlAUht2gLzqxHX3wIDfcLBXcZfTJOtQ8BqmT_kf5wANL3gaUHafdLEyeSoOBUmWPXVoeR7ygR66-TtvHsAYvEMzlrNVgushwAV5gjjpgCYSxEDTMwZZFO1PZ8fx6TAWTebSMFyVl7dTM6EJlKV6DGLoyEAMhsPBb-uj9vY6zLfWCSGiQsOdkHdoj_eJOXilk3PukKHZyP14p9j7Znyp04mPH-gNlxiZT0sh_A.saxiSieYtF4tWmyquJHJug",
           "apikey": "78545da6e0eb4b41abaf2c8c2ec657cc",
           "sec": "t9dgpCJQTt0LQGaRreVghvfg5Qc0BnMc7VnxibX540615afa",
           "content-type": "application/json",
           "content-length": "201",
-          "accept-encoding": "gzip"
+          "accept-encoding": "gzip",
+          "User-Agent": "com.dsmart.go.android/4.0.07 (Android/12; tr_TR; brand/Google; model/Flame; build/QQ3A.211001.001)"
         }
       },
       {
