@@ -616,6 +616,9 @@
         "name": "A Haber",
         "logo": "https://izmottvsc27.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008526514/e815ff70-dcad-419b-a01d-7643db080bed.png",
         "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb",
+        "alternatives": [
+          "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F1064954896a21f89fb6b5c"
+        ],
         "headers": {
           "origin": "com.dsmart.go.android",
           "langcode": "tr",
@@ -799,6 +802,9 @@
         "name": "A Para",
         "logo": "https://gbzeottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/87/0912202162025eb7f426_op_0_XL.webp",
         "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb",
+        "alternatives": [
+          "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F4202445834678957f05238"
+        ],
         "headers": {
           "origin": "com.dsmart.go.android",
           "langcode": "tr",
