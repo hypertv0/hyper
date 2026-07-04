@@ -30,7 +30,7 @@
         "type": "stream",
         "name": "Star TV",
         "logo": "https://izmottvsc05.tvplus.com.tr:33207/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8"
+        "stream_url": "https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9"
       },
       {
         "type": "stream",
@@ -42,13 +42,24 @@
         "type": "stream",
         "name": "NOW TV",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/82/0947057422345eb7f426_op_0_XL.webp",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8"
+        "stream_url": "https://m9zgxauuw7mb.merlincdn.net/content?key=6c10410adc92702ab8128577684a62bb",
+        "headers": {
+          "origin": "com.dsmart.go.android",
+          "langcode": "tr",
+          "user-agent": "com.dsmart.go.android/4.0.07 (Android/12; tr_TR; brand/Google; model/Flame; build/QQ3A.211001.001)",
+          "token": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwidHlwIjoiSldUIiwiY3R5IjoiSldUIn0.3gqbn8SvIgt094jAoPgxI8UmRV8ozoFY7gK7MfsQRrnkpAS-91h2ng.kBScrOFOxyPtPQYOh9y1Gg.rhR-jvpBisUpj2W8m6-zFa7iEk3ZGgigis5gEHDx9O51CYMDC_D5ccxj4HnGfdHll3hQRvuibSLgrgCPmqipsBP8UwLIQJtMeoAciLVIexearAIAEuec1NELXH8KqR1Sgu7VlifqhQuUui858mz-thlMAVy_kyq5c3L2LcGm7GlUbu2XGzW1I49ZuRiW8cWrcw0CoPnhXkQWemYN-KuLtFZsCqv0eZsbMDuqT1EP5X9Ci-knVpZ9VaP4UvyOuUgNf7IrAWb9vv0tFXE5SBoFcefqcPqVGBk6OCQHL1AAYD4gKmcCBj8Yq0f2xyEpklY6J5sOSjn_QRiN4AsnKAyyIGMpklIr8xUDqghnF462bgzvlWSVB693x8VgH1s8gHswCp4vQRNQyhjsyPrnJGgn8gomkgcz6mGAnEJGRqN1vb0kWhueW7LsL9zxsDP0ANvX86J4HqWD4EJGfqGScvd4Q239sRzWeu_u1ccmlHyRoGFFmL1I6cIly08FtVBI-iHEkwpohvG4kb2EtJ8D96lh0SNL7FZcKxui5fVvbp9h5XfXkYwBbR7LhhmGfF9l2sMBVAW_S9oY4bk9RelNJM1KqALIMdUEFd0ONReX3vEUgjkDC8itSIzoT02jpNKSH8hbwxgmbfcFKTLQ1aOJX_0lU_oFw27c6BdPqibCQdNRU4TUFGHHusLjSagc3WfmsqPGaZeWgweLJ3Z2gxlruBYQhA.-NpBWAKAyWgnPnutXHAyqA",
+          "apikey": "78545da6e0eb4b41abaf2c8c2ec657cc",
+          "sec": "t9dgpCJQTt0LQGaRreVghvfg5Qc0BnMc7VnxibX540615afa",
+          "content-type": "application/json",
+          "content-length": "201",
+          "accept-encoding": "gzip"
+        }
       },
       {
         "type": "stream",
         "name": "TV8",
         "logo": "https://izmottvsc05.tvplus.com.tr:33207/CPS/images/universal/film/poster/20170121/001300/XTV100000413/f89f537c-dbb5-46ce-894c-bcb309811611.png",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8"
+        "stream_url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
       },
       {
         "type": "stream",
@@ -72,7 +83,7 @@
         "type": "stream",
         "name": "Teve 2",
         "logo": "https://izmottvsc05.tvplus.com.tr:33207/CPS/images/universal/film/poster/20161010/001300/001300000008478957/8e013007-0124-40e1-b071-2c4adfa77636.png",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/44cff2e5-7871-40c8-b6d2-094572b4371a.m3u8"
+        "stream_url": "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8"
       },
       {
         "type": "stream",
@@ -96,7 +107,7 @@
         "type": "stream",
         "name": "CNBC-E",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/56/2111144680585eb9542c_op_0_XL.webp",
-        "stream_url": "https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8"
+        "stream_url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
       },
       {
         "type": "stream",
@@ -120,7 +131,7 @@
         "type": "stream",
         "name": "GZT TV",
         "logo": "https://gbzeottvsc12.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/80/0934306822275eb7f426_op_0_XL.webp",
-        "stream_url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8"
+        "stream_url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8"
       },
       {
         "type": "stream",
