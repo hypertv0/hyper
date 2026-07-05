@@ -375,7 +375,7 @@
         "type": "stream",
         "name": "S Sport 1 | B",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/54/1002317544415eb9542c_op_0_XL.webp",
-        "stream_url": "https://hypers.hypercors.workers.dev/S_Sport_1_HD.m3u8",
+        "stream_url": "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F3531762195c7260405eaad",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -390,7 +390,7 @@
         "type": "stream",
         "name": "S Sport 2 | B",
         "logo": "https://gbzottvsc09.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1003073844435eb9542c_op_0_XL.webp",
-        "stream_url": "https://hypers.hypercors.workers.dev/S_Sport_2_HD.m3u8",
+        "stream_url": "https://v.hypercors.workers.dev?url=https%3A%2F%2Fkool.to%2Fkool-iptv%2Fplay%2F394365103048c3f48946a4",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -447,7 +447,7 @@
         "type": "stream",
         "name": "Spor Smart 1 | A",
         "logo": "https://i.hizliresim.com/3eqt9es.png",
-        "stream_url": "https://hypers.hypercors.workers.dev/Smart_Spor_1_HD.m3u8",
+        "stream_url": "http://79.76.38.95/Dsmart.php?ID=246003",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -465,7 +465,7 @@
         "type": "stream",
         "name": "Spor Smart 2 | A",
         "logo": "https://i.hizliresim.com/3eqt9es.png",
-        "stream_url": "https://hypers.hypercors.workers.dev/Smart_Spor_2_HD.m3u8",
+        "stream_url": "http://79.76.38.95/Dsmart.php?ID=246171",
         "headers": {
           "Referer": "https://trgoals1275.xyz/"
         }
@@ -643,6 +643,18 @@
         "name": "Redbull TV ",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_Q5BT5fclB4hJOMZLrhM0B6LHt0n3GGX8A&s",
         "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8"
+      },
+      {
+        "type": "stream",
+        "name": "TJK TV",
+        "logo": "https://www.digiturkburada.com.tr/kanal3/tjk-tv.png?rkt=DfS6Tgv6Hjr93k3",
+        "stream_url": "https://tjktv-live.tjk.org/tjktv/tjktv.m3u8"
+      },
+      {
+        "type": "stream",
+        "name": "FIFA+",
+        "logo": "https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/3JUSJKaupT1HZfl5jzodmK/6239d34aea7fdbf1543c5049d37485cd/FIFA_LOGO.png?fm=webp&q=50",
+        "stream_url": "https://jmp2.uk/plu-63d91d2560bc8f0008a225e4.m3u8"
       }
     ]
   },
